@@ -3,7 +3,7 @@ A  web application  game where two players can play against each other.
 # This is a solution to an assignment
 The aim of the assignment is Create a tic-tac-toe game as a web application where two players can play against
 each other.
-# To run my code, navigate into a specific code snapshot folder via the cd command in your command prompt or terminal first.
+# To run the code, navigate into a specific code snapshot folder via the cd command in your command prompt or terminal first.
 
 Then run npm install to install all required dependencies (this will create a /node_modules folder). and npm start to run the game
 # Then run npm start in Client and Server directory
