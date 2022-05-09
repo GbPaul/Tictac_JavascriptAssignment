@@ -5,8 +5,8 @@ The aim of the assignment is Create a tic-tac-toe game as a web application wher
 each other.
 # To run the code, navigate into a specific code snapshot folder via the cd command in your command prompt or terminal first.
 
-Then run npm install to install all required dependencies (this will create a /node_modules folder). and npm start to run the game
-# Then run npm start in Client and Server directory
+Then run npm install to install all required dependencies (this will create a /node_modules folder). and npm start to run the game on both server and client directory
+
 # Game rules:
 Tic-tac-toe is a game for two players, X and O, who take turns marking the spaces in a
 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical,
